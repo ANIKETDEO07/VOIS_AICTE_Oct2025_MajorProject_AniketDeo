@@ -32,7 +32,7 @@ The main analysis is performed in a **Jupyter Notebook** with Python. Visualizat
 ## How to Run
 1. Clone the repository:  
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/ANIKETDEO07/VOIS_AICTE_Oct2025_MajorProject_AniketDeo.git
 ````
 
 2. Install required Python libraries:
